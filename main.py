@@ -10,5 +10,5 @@ try:
 except FileNotFoundError as e: 
 	print('check your file path silly!')
 	
-#This is from ztm python course, udemy 
+#This is from ztm python course
 #This converts to Japanese 
